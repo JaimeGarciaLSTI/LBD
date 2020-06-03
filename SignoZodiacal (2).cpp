@@ -11,7 +11,7 @@
  		if(anio >= 1960 && anio <= 2019)
  			printf("\n El anio es correcto");
  			else {
- 				printf("\n El año es incorrecto");
+ 				printf("\n El aÃ±o es incorrecto");
  		exit(0);
  	}
 
@@ -141,3 +141,7 @@
                  system ("pause");
              }
 }
+
+
+
+//Pruebas
